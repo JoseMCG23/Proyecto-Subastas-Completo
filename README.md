@@ -105,7 +105,7 @@ Proyecto funcional en entorno local.
 
 ---
 
-### Catálogo mantenimiento de funkos
+### Catálogo y mantenimiento de funkos
 
 ![Catálogo mantenimiento funkos](screenshots/CatalogoMantenimientoFunko.png)
 
