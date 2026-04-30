@@ -34,3 +34,116 @@ Proyecto académico desarrollado en equipo. Mi participación incluyó apoyo en 
 
 Proyecto funcional en entorno local.
 
+## Capturas del sistema
+
+### Pantalla principal
+
+![Pantalla principal](screenshots/PantallaInicio.png)
+
+---
+
+### Inicio con carrusel
+
+![Inicio carrusel](screenshots/InicioCarrusel.png)
+
+---
+
+### Catálogo de subastas
+
+![Catálogo subastas](screenshots/CatalogoSubastas.png)
+
+---
+
+### Crear cuenta
+
+![Crear cuenta](screenshots/CrearCuenta.png)
+
+---
+
+### Iniciar sesión
+
+![Iniciar sesión](screenshots/IniciarSesion.png)
+
+---
+
+### Detalle de subasta
+
+![Detalle subasta](screenshots/DetalleSubasta.png)
+
+---
+
+### Historial de pujas
+
+![Historial pujas](screenshots/HistorialPujas.png)
+
+---
+
+### Detalle mantenimiento de subasta
+
+![Detalle mantenimiento subasta](screenshots/DetalleSubastaMantenimiento.png)
+
+---
+
+### Detalle mantenimiento de subasta 2
+
+![Detalle mantenimiento subasta 2](screenshots/DetalleSubastaMantenimiento2.png)
+
+---
+
+### Detalle de pujas
+
+![Detalle pujas](screenshots/DetalleSubastaPujas.png)
+
+---
+
+### Mantenimiento de subastas
+
+![Mantenimiento subastas](screenshots/MantenimientoSubastas.png)
+
+---
+
+### Crear subasta
+
+![Crear subasta](screenshots/CrearSubasta.png)
+
+---
+
+### Catálogo mantenimiento de funkos
+
+![Catálogo mantenimiento funkos](screenshots/CatalogoMantenimientoFunko.png)
+
+---
+
+### Detalle de funko
+
+![Detalle funko](screenshots/DetalleFunko.png)
+
+---
+
+### Mantenimiento de usuarios
+
+![Mantenimiento usuarios](screenshots/MantenimientoUsuarios.png)
+
+---
+
+### Detalle de usuario
+
+![Detalle usuario](screenshots/DetalleUsuario.png)
+
+---
+
+### Editar usuario
+
+![Editar usuario](screenshots/EditarUsuario.png)
+
+---
+
+### Mi perfil
+
+![Mi perfil](screenshots/MiPerfil.png)
+
+---
+
+### Reportes
+
+![Reportes](screenshots/Reportes.png)
