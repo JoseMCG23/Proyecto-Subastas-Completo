@@ -82,9 +82,6 @@ Proyecto funcional en entorno local.
 
 ![Detalle mantenimiento subasta](screenshots/DetalleSubastaMantenimiento.png)
 
----
-
-### Detalle mantenimiento de subasta 2
 
 ![Detalle mantenimiento subasta 2](screenshots/DetalleSubastaMantenimiento2.png)
 
