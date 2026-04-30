@@ -34,10 +34,10 @@ import { SubastaCatalogo } from "@/components/subasta/SubastaCatalogo";
 import { SubastaVista } from "@/components/subasta/SubastaVista";
 
 //import historial de pujas 
-import { HistorialPujas } from "@/components/pujas/HistorialPujas";
+import { HistorialPujas } from "@/components/Pujas/HistorialPujas";
 
 //import historia de pujas del usuario
-import { MisPujas } from "@/components/pujas/MisPujas";
+import { MisPujas } from "@/components/Pujas/MisPujas";
 
 //import mantenimiento subasta
 import { MantenimientoSubasta } from "@/components/subasta/MantenimientoSubasta";
