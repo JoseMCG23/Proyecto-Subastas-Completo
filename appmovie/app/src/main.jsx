@@ -24,12 +24,11 @@ import UserUpdate from "@/components/User/UserUpdate";
 import MiPerfil from "@/components/User/MiPerfil";
 
 /////nuevo de cris de funko
-import FunkoList from "@/components/Funko/FunkoList";
-import FunkoCreate from "@/components/Funko/FunkoCreate";
-import FunkoUpdate from "@/components/Funko/FunkoUpdate";
-import FunkoDetail from "@/components/Funko/FunkoDetail";
-import MantenimientoFunko from "@/components/Funko/MantenimientoFunko";
-
+import FunkoList from "@/components/funko/FunkoList";
+import FunkoCreate from "@/components/funko/FunkoCreate";
+import FunkoUpdate from "@/components/funko/FunkoUpdate";
+import FunkoDetail from "@/components/funko/FunkoDetail";
+import MantenimientoFunko from "@/components/funko/MantenimientoFunko";
 //import subasta
 import { SubastaCatalogo } from "@/components/subasta/SubastaCatalogo";
 import { SubastaVista } from "@/components/subasta/SubastaVista";
