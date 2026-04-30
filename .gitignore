@@ -13,7 +13,7 @@ api/.env
 *.env
 *.sql
 
-# Config sensible del proyecto
+# Config sensible
 appmovie/api/config.php
 
 # Configuración local
