@@ -1,5 +1,3 @@
-Proyecto de Subastas
-
 # Sistema Web de Subastas Funko Pop
 
 Proyecto académico desarrollado como parte de la carrera de Ingeniería en Software en la Universidad Técnica Nacional.
@@ -35,6 +33,4 @@ Proyecto académico desarrollado en equipo. Mi participación incluyó apoyo en 
 ## Estado del proyecto
 
 Proyecto funcional en entorno local.
-
-## Nota
 
