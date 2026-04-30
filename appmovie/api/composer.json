@@ -1,0 +1,7 @@
+{
+    "require": {
+        "psr/log": "^3.0",
+        "firebase/php-jwt": "^7.0",
+        "pusher/pusher-php-server": "^7.2"
+    }
+}

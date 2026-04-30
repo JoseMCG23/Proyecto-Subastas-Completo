@@ -1,0 +1,28 @@
+# React / Vite
+app/node_modules/
+app/dist/
+app/.env
+app/.env.local
+
+# PHP / Composer
+api/vendor/
+api/.env
+
+# Archivos sensibles
+.env
+*.env
+*.sql
+
+# Config sensible del proyecto
+appmovie/api/config.php
+
+# Configuración local
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
